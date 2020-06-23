@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIForKenh14", "RESTAPIForKenh14\RESTAPIForKenh14.csproj", "{21D0B4F7-A983-4C08-9866-81FF80CF323B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D0B4F7-A983-4C08-9866-81FF80CF323B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D0B4F7-A983-4C08-9866-81FF80CF323B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D0B4F7-A983-4C08-9866-81FF80CF323B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D0B4F7-A983-4C08-9866-81FF80CF323B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3265913-AFD2-48B2-943A-6C98B4B5B36A}
+	EndGlobalSection
+EndGlobal
