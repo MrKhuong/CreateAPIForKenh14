@@ -49,7 +49,7 @@ namespace RESTAPIForKenh14.Controllers
 
         // Paging and searching
         [HttpGet]
-        public HttpResponseMessage GetNews([FromUri] PagingParameterModel pagingParameterModel)
+        public HttpResponseMessage GetNewsWithPagingAndSearching([FromUri] PagingParameterModel pagingParameterModel)
         {
             using (NewsDBContext dbContext = new NewsDBContext())
             {
