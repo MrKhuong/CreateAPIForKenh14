@@ -187,7 +187,5 @@ namespace RESTAPIForKenh14.Controllers
                 return Request.CreateErrorResponse(System.Net.HttpStatusCode.BadRequest, ex);
             }
         }
-        
-        //test
     }
 }
